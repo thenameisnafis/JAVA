@@ -1,0 +1,10 @@
+public class Car
+{
+	private int currentGear;
+	private int currentRpms;
+	
+	public int calculateSpeed()
+	{
+		return currentRpms * currentGear;
+	}
+}
