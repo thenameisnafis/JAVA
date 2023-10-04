@@ -25,7 +25,7 @@ public class Student {
 
     public static void main(String[] args) {
         
-        Student student = new Student("Nafis Hasan", 50976, 3.00);
+        Student student = new Student("Nafis Hasan", 50976, 3.82);
 
         
         System.out.println("Name: " + student.getName());
